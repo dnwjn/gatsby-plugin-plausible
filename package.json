@@ -50,7 +50,7 @@
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
     "@babel/runtime": "^7.9.2",
-    "@ianvs/prettier-plugin-sort-imports": "4.1.1",
+    "@ianvs/prettier-plugin-sort-imports": "4.3.1",
     "auto-changelog": "^2.0.0",
     "babel-eslint": "^10.1.0",
     "babel-preset-gatsby-package": "^0.3.1",
